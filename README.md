@@ -9,4 +9,7 @@ Ich denke ein gutes Projekt zuerst währe eine Professionelle Website zu erstell
 Wir haben das ganze Lernatelier lang an einem Encryption rätsel getufftelt und einen Code geschrieben um den verschlüsselten code zu entschlüsseln.
 
 ## 23.08.2024
-- { }
+- [ ] Lehrperson ansprechen auf was ein gutes Projekt wäre
+- [ ] Webseite Grundgerüst erstellen
+- [ ] Webseite Layout erstellen
+- [ ] ersten HTML code schreiben
