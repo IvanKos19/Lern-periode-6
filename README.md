@@ -13,3 +13,12 @@ Wir haben das ganze Lernatelier lang an einem Encryption rätsel getufftelt und 
 - [ ] Webseite Grundgerüst erstellen
 - [ ] Webseite Layout erstellen
 - [ ] ersten HTML code schreiben
+
+## Heute habe ich...
+Heute habe ich die Lehrperson angesprochen, um Ideen für ein gutes Projekt zu erhalten. Danach habe ich das Grundgerüst für die Webseite erstellt und das Layout konzipiert. Schließlich habe ich begonnen, den ersten HTML-Code zu schreiben. Damit sind die ersten Schritte für das Projekt erfolgreich abgeschlossen, und es gibt eine klare Richtung für die Weiterentwicklung der Webseite. Insgesamt war es ein produktiver Tag mit einem guten Fortschritt bei den geplanten Arbeitspaketen. (70)
+
+## 30.08.2024
+- [ ] CSS-Styling für die Webseite implementieren
+- [ ] Responsives Design für mobile Geräte erstellen
+- [ ] Erste Inhalte und Texte in die Webseite einfügen
+- [ ] Die Webseite auf Fehler testen und beheben
