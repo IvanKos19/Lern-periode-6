@@ -20,5 +20,14 @@ Heute habe ich die Lehrperson angesprochen, um Ideen für ein gutes Projekt zu e
 ## 30.08.2024
 - [X] 1715 Modul 231
 - [X] 1712 Modul 231 
-- [ ] 1713 Modul 231
-- [ ] 1714 Modul 231
+- [X] 1713 Modul 231
+- [X] 1714 Modul 231
+
+## Zusammenfassung
+Heute habe ich alle Aufgaben für das Modul 231 erfolgreich abgeschlossen. Ich habe die Arbeitspakete 1715, 1712, 1713 und 1714 bearbeitet und dabei gute Fortschritte gemacht. Jedes Arbeitspaket wurde sorgfältig durchgearbeitet, was mir ein gutes Verständnis des Moduls gegeben hat. Insgesamt war es ein produktiver Tag, an dem ich alle meine Ziele erreicht habe. (53)
+
+## 30.08.2024
+- [ ] Index.html fertig schreiben
+- [ ] styles.css programmieren
+- [ ] Modul 231 auftrag 1
+- [ ] Modul 231 auftrag 2
