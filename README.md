@@ -52,3 +52,20 @@ Heute habe ich das CSS der Webseite erweitert und Bilder sowie Medien erfolgreic
 
 ## Zusammenfassung
 Am 20.09.2024 habe ich die Arbeitspakete 1706 und 1719 erfolgreich abgeschlossen. Beide Aufgaben liefen gut und ohne Probleme. Leider habe ich es jedoch nicht geschafft, die Aufträge 1720 und 1721 fertigzustellen. Diese werde ich daher auf die nächste Sitzung verschieben. Insgesamt habe ich dennoch Fortschritte gemacht, aber es bleibt noch Arbeit übrig. (Wortanzahl: 59)
+
+## 27.09.2024
+- [X] 1729
+- [X] 1730
+
+### Fertiges Projekt
+Ich habe kein einziges Fertiges Projekt, doch wir haben für das Modul 322 eine Benutzerfreundliche Webseite erstellt und ich erwarte auch in den anderen 2 Modulen das ich gute noten bekomme.
+
+### Reflexion – Lernperiode 6
+
+In dieser Lernperiode habe ich mich auf die Entwicklung eines Projekts konzentriert, das meine Bewerbungen verbessern soll. Mein Ziel war es, eine professionelle Website zu erstellen, auf der ich sowohl Informationen über mich als auch meine Fähigkeiten präsentieren kann. Der Prozess hat mir gezeigt, dass ich in kleinen Schritten vorankomme und konsequent Aufgaben erledige, aber auch Rückschläge erlebe, wie z.B. unerledigte Arbeitspakete.
+
+Zu Beginn habe ich erfolgreich die ersten Schritte gemacht, wie das Ansprechen der Lehrperson für Projektideen und das Erstellen des Webseiten-Grundgerüsts. Ich habe auch gute Fortschritte im Modul 231 erzielt und die meisten Arbeitspakete abgeschlossen. An manchen Tagen habe ich sogar mehrere Aufgaben bewältigt, wie das Erweitern des CSS und das Einbinden von Medien. Dies zeigt mir, dass ich in der Lage bin, zielgerichtet zu arbeiten und Fortschritte zu machen.
+
+Jedoch habe ich nicht immer alle meine Ziele erreicht. Besonders am 20.09.2024 habe ich zwei Aufträge nicht abschließen können, was mir verdeutlicht, dass ich noch besser planen und meine Zeit effektiver nutzen muss. Dies hat mir geholfen, meine eigene Arbeitsweise zu reflektieren und Bereiche zu erkennen, in denen ich mich verbessern kann.
+
+Insgesamt bin ich mit dem Fortschritt zufrieden, jedoch bleibt noch Arbeit übrig. Ich werde mich darauf konzentrieren, offene Aufgaben konsequent abzuschließen, um das Projekt erfolgreich zum Abschluss zu bringen.
